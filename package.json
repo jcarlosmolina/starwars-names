@@ -1,0 +1,28 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "description": "Get random Star Wars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jcarlosmolina/starwars-names.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars",
+    "names"
+  ],
+  "author": "Juan Carlos Molina <jcarlosmolina@gmail.com> (http://jcarlosmolina.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcarlosmolina/starwars-names/issues"
+  },
+  "homepage": "https://github.com/jcarlosmolina/starwars-names",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
